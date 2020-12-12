@@ -1,7 +1,13 @@
 *{
     font-family: 'Open Sans', sans-serif;
-    text-align: left;
-    
+    text-align: justify;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align:center;
 }
 
 green{
