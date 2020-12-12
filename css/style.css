@@ -1,0 +1,43 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    
+}
+
+green{
+    color: rgb(32, 141, 32)
+}
+
+.green{
+    color: rgb(32, 141, 32)
+}
+
+
+bg-green{
+    background-color:rgb(32, 141, 32) ;
+}
+
+.active-green-4 input[type=text]:focus:not([readonly]) {
+    border: 1px solid rgb(32, 141, 32);
+    box-shadow: 0 0 0 1px rgb(32, 141, 32);
+    border-radius: 5%;
+ 
+  }
+
+  .active-green-3 input[type=text] {
+    border: 1px solid rgb(32, 141, 32);
+    box-shadow: 0 0 0 1px rgb(32, 141, 32);
+  }
+
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
